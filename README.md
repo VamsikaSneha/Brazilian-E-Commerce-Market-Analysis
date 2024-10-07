@@ -92,3 +92,6 @@ The datasets used in this analysis include:
 ## Conclusion
  
 This analysis uncovers important insights into customer behavior, purchasing patterns, delivery logistics, and customer satisfaction, helping improve e-commerce operations.
+
+
+![Screenshot 2024-10-07 111451](https://github.com/user-attachments/assets/ef7d0c2f-913c-4214-b2af-faa590b90c33)
